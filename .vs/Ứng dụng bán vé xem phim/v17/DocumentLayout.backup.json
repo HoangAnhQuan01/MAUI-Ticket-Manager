@@ -1,0 +1,524 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\data\\ticketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:data\\ticketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\data\\moviedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:data\\moviedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\data\\bookingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:data\\bookingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\models\\moviewithticketinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:models\\moviewithticketinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\administration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\administration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\administration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\administration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\ticketpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\ticketpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\ticketpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\ticketpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\moviedetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\moviedetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\moviedetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\moviedetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\moviepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\moviepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|e:\\.net\\maui\\\u1EE9ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\views\\moviepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}|\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim.csproj|solutionrelative:views\\moviepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Precision 7730\\Downloads\\Administration_Updated.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 98,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieViewModel.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\ViewModels\\MovieViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MovieViewModel.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\ViewModels\\MovieViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MovieViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:05:45.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketData.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Data\\TicketData.cs",
+              "RelativeDocumentMoniker": "Data\\TicketData.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Data\\TicketData.cs",
+              "RelativeToolTip": "Data\\TicketData.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:56:05.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieDatabase.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Data\\MovieDatabase.cs",
+              "RelativeDocumentMoniker": "Data\\MovieDatabase.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Data\\MovieDatabase.cs",
+              "RelativeToolTip": "Data\\MovieDatabase.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T16:14:40.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T15:30:07.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T02:48:03.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingData.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Data\\BookingData.cs",
+              "RelativeDocumentMoniker": "Data\\BookingData.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Data\\BookingData.cs",
+              "RelativeToolTip": "Data\\BookingData.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:38:04.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:13:32.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:14:55.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieWithTicketInfo.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Models\\MovieWithTicketInfo.cs",
+              "RelativeDocumentMoniker": "Models\\MovieWithTicketInfo.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Models\\MovieWithTicketInfo.cs",
+              "RelativeToolTip": "Models\\MovieWithTicketInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:56:15.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:13:38.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:13:44.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADgvzYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:08:10.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeViewModel.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:21:35.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "Data\\UserData.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Data\\UserData.cs",
+              "RelativeToolTip": "Data\\UserData.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:56:10.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:34:05.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T20:33:09.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Administration.xaml.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\Administration.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Administration.xaml.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\Administration.xaml.cs",
+              "RelativeToolTip": "Views\\Administration.xaml.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:03:35.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Administration.xaml",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\Administration.xaml",
+              "RelativeDocumentMoniker": "Views\\Administration.xaml",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\Administration.xaml",
+              "RelativeToolTip": "Views\\Administration.xaml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T21:01:17.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserPage.xaml.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\UserPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\UserPage.xaml.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\UserPage.xaml.cs",
+              "RelativeToolTip": "Views\\UserPage.xaml.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:00:56.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\UserPage.xaml",
+              "RelativeDocumentMoniker": "Views\\UserPage.xaml",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\UserPage.xaml",
+              "RelativeToolTip": "Views\\UserPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T21:00:22.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TicketPage.xaml.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\TicketPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TicketPage.xaml.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\TicketPage.xaml.cs",
+              "RelativeToolTip": "Views\\TicketPage.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:56:04.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TicketPage.xaml",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\TicketPage.xaml",
+              "RelativeDocumentMoniker": "Views\\TicketPage.xaml",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\TicketPage.xaml",
+              "RelativeToolTip": "Views\\TicketPage.xaml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T19:55:19.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\RegisterPage.xaml.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "Views\\RegisterPage.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T02:49:41.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "Views\\RegisterPage.xaml",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\RegisterPage.xaml",
+              "RelativeToolTip": "Views\\RegisterPage.xaml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwEQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T19:56:21.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:22:41.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginPage.xaml",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T18:14:15.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MovieDetailPage.xaml.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\MovieDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MovieDetailPage.xaml.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\MovieDetailPage.xaml.cs",
+              "RelativeToolTip": "Views\\MovieDetailPage.xaml.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:48:32.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MovieDetailPage.xaml",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\MovieDetailPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MovieDetailPage.xaml",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\MovieDetailPage.xaml",
+              "RelativeToolTip": "Views\\MovieDetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T18:48:11.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MoviePage.xaml.cs",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\MoviePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MoviePage.xaml.cs",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\MoviePage.xaml.cs",
+              "RelativeToolTip": "Views\\MoviePage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:18:13.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MoviePage.xaml",
+              "DocumentMoniker": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\MoviePage.xaml",
+              "RelativeDocumentMoniker": "Views\\MoviePage.xaml",
+              "ToolTip": "E:\\.net\\MAUI\\\u1EE8ng d\u1EE5ng b\u00E1n v\u00E9 xem phim\\Views\\MoviePage.xaml",
+              "RelativeToolTip": "Views\\MoviePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T15:18:49.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Administration_Updated.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Precision 7730\\Downloads\\Administration_Updated.xaml.cs",
+              "ToolTip": "C:\\Users\\Precision 7730\\Downloads\\Administration_Updated.xaml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:44:58.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

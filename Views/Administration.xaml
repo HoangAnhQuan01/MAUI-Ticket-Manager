@@ -1,0 +1,68 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ứng_dụng_bán_vé_xem_phim.Views.Administration">
+
+
+    <ScrollView>
+        <StackLayout Padding="10">
+            <Label Text="Thêm phim mới" FontAttributes="Bold" FontSize="18"/>
+            <Entry x:Name="titleEntry" Placeholder="Tên phim"/>
+            <Entry x:Name="genreEntry" Placeholder="Thể loại"/>
+            <Entry x:Name="descriptionEntry" Placeholder="Mô tả"/>
+            <Entry x:Name="posterEntry" Placeholder="Poster URL"/>
+            <Entry x:Name="ticketTypeEntry" Placeholder="Loại vé (Thường, VIP)"/>
+            <Entry x:Name="ticketQuantityEntry" Placeholder="Số lượng vé" Keyboard="Numeric"/>
+            <Entry x:Name="ticketPriceEntry" Placeholder="Giá vé (VD: 50000)" Keyboard="Numeric"/>
+            <Button Text="Thêm phim" Clicked="OnAddMovieClicked">
+                <Button.GestureRecognizers>
+                    <PointerGestureRecognizer PointerEntered="OnPointerEntered" PointerExited="OnPointerExited" />
+                </Button.GestureRecognizers>
+            </Button>
+
+            <Label Text="Quản lý phim" FontSize="24" HorizontalOptions="Center"/>
+
+            <SearchBar x:Name="MovieSearchBar"
+                   Placeholder="Tìm kiếm phim..."
+                   TextChanged="OnSearchTextChanged"
+                   Margin="0,10"/>
+
+            <CollectionView x:Name="movieListView" Margin="0,10">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame BorderColor="Gray" Margin="5">
+                            <StackLayout Orientation="Horizontal" Spacing="10">
+
+
+                                <Image Source="{Binding PosterUrl}"
+                           WidthRequest="100"
+                           HeightRequest="150"
+                           Aspect="AspectFill"
+                           HorizontalOptions="Start"/>
+
+                                <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+                                    <Label Text="{Binding Title}" FontAttributes="Bold"/>
+                                    <Label Text="{Binding Genre}"/>
+                                    <Label Text="{Binding Description}" LineBreakMode="TailTruncation" MaxLines="3"/>
+                                    <Label Text="{Binding TicketInfo}" FontAttributes="Italic" FontSize="12"/>
+
+                                    <StackLayout Orientation="Horizontal" HorizontalOptions="End">
+                                        <Button Text="Sửa" Clicked="OnEditMovieInlineClicked" CommandParameter="{Binding MovieId}" Margin="5,0">
+                                            <Button.GestureRecognizers>
+                                                <PointerGestureRecognizer PointerEntered="OnPointerEntered" PointerExited="OnPointerExited" />
+                                            </Button.GestureRecognizers>
+                                        </Button>
+                                        <Button Text="Xóa" Clicked="OnDeleteMovieInlineClicked" CommandParameter="{Binding MovieId}" Margin="5,0">
+                                            <Button.GestureRecognizers>
+                                                <PointerGestureRecognizer PointerEntered="OnPointerEntered" PointerExited="OnPointerExited" />
+                                            </Button.GestureRecognizers>
+                                        </Button>
+                                    </StackLayout>
+                                </StackLayout>
+                            </StackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Ứng_dụng_bán_vé_xem_phim.ViewModels"
+             x:Class="Ứng_dụng_bán_vé_xem_phim.Views.MoviePage"
+             Title="MoviePage">
+    <ContentPage.BindingContext>
+        <vm:MovieViewModel />
+    </ContentPage.BindingContext>
+    <ScrollView>
+        <VerticalStackLayout>
+            <Label Text="🎯 Chọn thể loại" FontSize="18"/>
+            <Picker ItemsSource="{Binding Genres}" SelectedItem="{Binding SelectedGenre}" />
+            <SearchBar Placeholder="Tìm phim..." TextChanged="OnSearchTextChanged" Margin="10,5"/>
+            <CollectionView ItemsSource="{Binding FilteredMovies}" SelectionMode="Single" SelectionChanged="OnMovieSelected">
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Span="4" Orientation="Vertical" />
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame CornerRadius="10" Padding="8" Margin="0,5">
+                            <VerticalStackLayout>
+                                <Image Source="{Binding PosterUrl}" HeightRequest="360" Aspect="AspectFill">
+                                    <Image.GestureRecognizers>
+                                        <PointerGestureRecognizer PointerEntered="OnImagePointerEntered" PointerExited="OnImagePointerExited"/>
+                                    </Image.GestureRecognizers>
+                                </Image>
+                                <Label Text="{Binding Title}" FontSize="16" HorizontalOptions="Center" MaxLines="2" FontAttributes="Bold" LineBreakMode="TailTruncation"/>
+                            </VerticalStackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </ScrollView> 
+</ContentPage>

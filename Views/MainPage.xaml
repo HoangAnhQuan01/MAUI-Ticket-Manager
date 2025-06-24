@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Ứng_dụng_bán_vé_xem_phim.ViewModels"
+             x:Class="Ứng_dụng_bán_vé_xem_phim.Views.MainPage"
+             Title="Trang Chủ">
+
+    <ContentPage.BindingContext>
+        <vm:HomeViewModel />
+    </ContentPage.BindingContext>
+
+    <ScrollView>
+
+        <VerticalStackLayout Padding="10" Spacing="15">
+            <Label Text="🎬 Phim Nổi Bật" FontSize="20" FontAttributes="Bold" />
+            <CarouselView x:Name="MyCarousel" ItemsSource="{Binding FeaturedMovies}" HeightRequest="360" IndicatorView="carouselIndicators" IsSwipeEnabled="False" IsBounceEnabled="False" >
+                <CarouselView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Image Source="{Binding PosterUrl}" Aspect="AspectFill" HorizontalOptions="Fill" VerticalOptions="Fill" >
+                            <Image.GestureRecognizers>
+                                    <PointerGestureRecognizer PointerEntered="OnImagePointerEntered" PointerExited="OnImagePointerExited" />
+                                </Image.GestureRecognizers>
+                            </Image>
+                        </Grid>
+                    </DataTemplate>
+                </CarouselView.ItemTemplate>
+            </CarouselView>
+            <IndicatorView x:Name="carouselIndicators" HorizontalOptions="Center"/>
+
+            <Label Text="🎟️ Phim Mới Sắp Chiếu" FontSize="20" FontAttributes="Bold"/>
+            <CollectionView x:Name="NewMoviesCollectionView"
+                ItemsSource="{Binding NewMoviesList}"
+                SelectionMode="Single"
+                SelectionChanged="OnMovieSelected">
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Span="2" Orientation="Vertical" />
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame CornerRadius="10" Padding="8" Margin="0,5">
+                            <VerticalStackLayout>
+                                <Image Source="{Binding PosterUrl}" HeightRequest="360" Aspect="AspectFill">
+                                    <Image.GestureRecognizers>
+                                        <PointerGestureRecognizer PointerEntered="OnImagePointerEntered" PointerExited="OnImagePointerExited"/>
+                                    </Image.GestureRecognizers>
+                                </Image>
+                                <Label Text="{Binding Title}" FontSize="16" HorizontalOptions="Center" MaxLines="2" FontAttributes="Bold" LineBreakMode="TailTruncation" TextColor="LightYellow"/>
+                            </VerticalStackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

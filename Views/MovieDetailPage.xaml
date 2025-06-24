@@ -1,0 +1,42 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ứng_dụng_bán_vé_xem_phim.Views.MovieDetailPage"
+             Title="Chi tiết phim">
+
+    <ScrollView>
+        <StackLayout Padding="15" Spacing="12">
+            <Button Text="Quay lại" Clicked="OnBackButtonClicked">
+                <Button.GestureRecognizers>
+                    <PointerGestureRecognizer PointerEntered="OnPointerEntered" PointerExited="OnPointerExited" />
+                </Button.GestureRecognizers>
+            </Button>
+            <Label x:Name="MovieTitleLabel" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center"/>
+
+            <Image x:Name="PosterImage" HeightRequest="200" Aspect="AspectFill"/>
+            <Label x:Name="GenreLabel" FontSize="18" TextColor="Gray"/>
+            <Label x:Name="DescriptionLabel" FontSize="16" LineBreakMode="WordWrap"/>
+            <Label x:Name="AvailableTicketsLabel" FontAttributes="Italic" TextColor="DarkGreen"/>
+            <Label x:Name="TicketPriceLabel" FontAttributes="Italic" FontSize="Medium" Margin="10,0,10,10" TextColor="DarkGreen"/>
+
+
+            <Label Text="Chọn số lượng vé:" FontAttributes="Bold"/>
+            <Stepper x:Name="TicketStepper" Minimum="1" Maximum="10" Increment="1" Value="1"/>
+            <Label Text="{Binding Source={x:Reference TicketStepper}, Path=Value, StringFormat='Số lượng: {0}'}"/>
+
+            <Label Text="Phương thức thanh toán:" FontAttributes="Bold"/>
+            <Picker x:Name="PaymentPicker">
+                <Picker.Items>
+                    <x:String>Chuyển khoản</x:String>
+                    <x:String>Tiền mặt</x:String>
+                </Picker.Items>
+            </Picker>
+            <Button x:Name="PurchaseButton" Text="Xác nhận mua vé" Clicked="OnPurchaseClicked" BackgroundColor="Green" TextColor="White">
+                <Button.GestureRecognizers>
+                    <PointerGestureRecognizer PointerEntered="OnPointerEntered" PointerExited="OnPointerExited" />
+                </Button.GestureRecognizers>
+            </Button>
+            <Label x:Name="LoginWarningLabel" Text="Bạn phải đăng nhập mới mua được vé" TextColor="Red" IsVisible="False" FontAttributes="Italic" HorizontalOptions="Center"/>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

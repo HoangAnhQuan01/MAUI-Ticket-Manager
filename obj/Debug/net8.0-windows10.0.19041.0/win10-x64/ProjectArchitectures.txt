@@ -1,0 +1,1 @@
+E:\.net\MAUI\Ứng dụng bán vé xem phim\Ứng dụng bán vé xem phim.csproj;x64

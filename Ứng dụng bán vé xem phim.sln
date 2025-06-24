@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ứng dụng bán vé xem phim", "Ứng dụng bán vé xem phim.csproj", "{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D28CB9-8734-4ED1-ABB0-A870A28314A0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {201CC7F9-F0BB-4D8D-88FC-56A71AD60799}
+	EndGlobalSection
+EndGlobal

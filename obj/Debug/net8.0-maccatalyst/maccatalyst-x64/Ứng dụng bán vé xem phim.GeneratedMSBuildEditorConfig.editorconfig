@@ -1,0 +1,91 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ứng_dụng_bán_vé_xem_phim
+build_property.ProjectDir = E:\.net\MAUI\Ứng dụng bán vé xem phim\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[E:/.net/MAUI/Ứng dụng bán vé xem phim/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ứng_dụng_bán_vé_xem_phim.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/.net/MAUI/Ứng dụng bán vé xem phim/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ứng_dụng_bán_vé_xem_phim.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[E:/.net/MAUI/Ứng dụng bán vé xem phim/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ứng_dụng_bán_vé_xem_phim.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[E:/.net/MAUI/Ứng dụng bán vé xem phim/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ứng_dụng_bán_vé_xem_phim.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[E:/.net/MAUI/Ứng dụng bán vé xem phim/Views/Administration.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ứng_dụng_bán_vé_xem_phim.Views.Administration.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Administration.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Administration.xaml
+
+[E:/.net/MAUI/Ứng dụng bán vé xem phim/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ứng_dụng_bán_vé_xem_phim.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPage.xaml
+
+[E:/.net/MAUI/Ứng dụng bán vé xem phim/Views/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ứng_dụng_bán_vé_xem_phim.Views.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MainPage.xaml
+
+[E:/.net/MAUI/Ứng dụng bán vé xem phim/Views/MovieDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ứng_dụng_bán_vé_xem_phim.Views.MovieDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MovieDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MovieDetailPage.xaml
+
+[E:/.net/MAUI/Ứng dụng bán vé xem phim/Views/MoviePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ứng_dụng_bán_vé_xem_phim.Views.MoviePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MoviePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MoviePage.xaml
+
+[E:/.net/MAUI/Ứng dụng bán vé xem phim/Views/RegisterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ứng_dụng_bán_vé_xem_phim.Views.RegisterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RegisterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RegisterPage.xaml
+
+[E:/.net/MAUI/Ứng dụng bán vé xem phim/Views/TicketPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ứng_dụng_bán_vé_xem_phim.Views.TicketPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TicketPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TicketPage.xaml
+
+[E:/.net/MAUI/Ứng dụng bán vé xem phim/Views/UserPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ứng_dụng_bán_vé_xem_phim.Views.UserPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\UserPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\UserPage.xaml

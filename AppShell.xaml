@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Ứng_dụng_bán_vé_xem_phim"
+    xmlns:views="clr-namespace:Ứng_dụng_bán_vé_xem_phim.Views"
+    x:Class="Ứng_dụng_bán_vé_xem_phim.AppShell"
+    Shell.FlyoutBehavior="Disabled"
+    Shell.FlyoutBackgroundColor="Black"
+    TitleColor="Pink"
+    Shell.FlyoutWidth="60">
+
+    <!-- ShellContent cho trang chính của ứng dụng.
+         Lưu ý: Nếu bạn muốn LoginPage là trang khởi đầu, hãy thay thế ShellContent này
+         bằng ShellContent cho LoginPage và đặt Route="LoginPage". -->
+    <TabBar>
+    <ShellContent
+        Title="Trang Chủ"
+        ContentTemplate="{DataTemplate views:MainPage}"
+        Icon="home.png"
+        Route="MainPage" />
+
+        <ShellContent
+        Title="Phim có trong rạp"
+        ContentTemplate="{DataTemplate views:MoviePage}"
+        Icon="film.png"
+        Route="MovietPage" />
+
+        <ShellContent
+        Title="Vé đã mua"
+        x:Name="TicketTab"
+        ContentTemplate="{DataTemplate views:TicketPage}"
+        Icon="tickets.png"
+        Route="TicketPage"
+        IsVisible="False"/>
+
+        <ShellContent
+        x:Name="LoginTab"
+        Title="Đăng nhập"
+        ContentTemplate="{DataTemplate views:LoginPage}"
+        Icon="login.png"
+        Route="LoginPage" 
+            IsVisible="True"/>
+
+        <ShellContent
+        x:Name="RegisterTab"
+        Title="Đăng ký"
+        ContentTemplate="{DataTemplate views:RegisterPage}"
+        Icon="register.png"
+        Route="RegisterPage" 
+            IsVisible="True"/>
+
+        <ShellContent x:Name="UserTab"
+                      Title="Tài khoản"
+                      ContentTemplate="{DataTemplate views:UserPage}"
+                      Icon="account_manage.png"
+                      Route="UserPage" 
+                      IsVisible="False" />
+
+
+        <ShellContent x:Name="AdminTab"
+                  Title="Quản lý phim"
+                  ContentTemplate="{DataTemplate views:Administration}"
+                  Icon="movies_manage.png"                 
+                  Route="Administration"
+                  IsVisible="False" />
+    </TabBar>
+</Shell>

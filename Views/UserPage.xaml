@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ứng_dụng_bán_vé_xem_phim.Views.UserPage"
+             Title="Tài khoản cá nhân">
+
+    <VerticalStackLayout Padding="20" Spacing="15">
+        <Label Text="Thông tin tài khoản" FontSize="24" FontAttributes="Bold" />
+
+        <Label Text="Tên đăng nhập:" FontAttributes="Bold" FontSize="20"/>
+        <Label x:Name="usernameLabel" Text="-" />
+
+        <Label Text="Email:" FontAttributes="Bold" FontSize="20"/>
+        <Label x:Name="emailLabel" Text="-" />
+
+        <Label Text="Vai trò:" FontAttributes="Bold" FontSize="20"/>
+        <Label x:Name="roleLabel" Text="-" />
+
+        <Button Text="Sửa tài khoản" Clicked="OnEditAccountClicked" BackgroundColor="DarkOrange" TextColor="White" Margin="0,10">
+            <Button.GestureRecognizers>
+                <PointerGestureRecognizer PointerEntered="OnPointerEntered" PointerExited="OnPointerExited" />
+            </Button.GestureRecognizers>
+        </Button>
+        <Button Text="Đăng xuất" Clicked="OnLogoutClicked" BackgroundColor="OrangeRed" TextColor="White">
+            <Button.GestureRecognizers>
+                <PointerGestureRecognizer PointerEntered="OnPointerEntered" PointerExited="OnPointerExited" />
+            </Button.GestureRecognizers>
+        </Button>
+        <Button Text="Xóa tài khoản" Clicked="OnDeleteAccountClicked" BackgroundColor="DarkRed" TextColor="White">
+            <Button.GestureRecognizers>
+                <PointerGestureRecognizer PointerEntered="OnPointerEntered" PointerExited="OnPointerExited" />
+            </Button.GestureRecognizers>
+        </Button>
+    </VerticalStackLayout>
+</ContentPage>
